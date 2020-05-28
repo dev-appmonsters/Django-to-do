@@ -24,7 +24,7 @@ This is a sample project that a novice django developer can use to get started.
     │   ├── settings.py: settings file for the project.
     │   ├── __init__.py
     │   ├── urls.py: url endpoints of linkedin scraper app
-    │ 	├── wsgi.py	
+    │ 	└── wsgi.py	
     └── tasks
         ├── temaplates: contains templates to load
         ├── temaplatetags: contains templates tags to load data in templates 
