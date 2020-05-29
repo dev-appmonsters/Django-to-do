@@ -45,13 +45,13 @@ This is a sample project that a novice django developer can use to get started.
 - Change the directory to the folder where you downloaded files
 - For installing required packages, execute the following command in terminal:
 
-    ```bash
+    ```
     $pip install -r requirements.txt
     ```
 
 - After successful installation execute the following commands:
 
-    ```bash
+    ```
     $python manage.py migrate
     $python manage.py runserver
     ```
